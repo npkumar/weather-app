@@ -1,5 +1,9 @@
 ## Weather App
 
+Application can be accessed at https://npkumar.github.io/weather-app/ 
+
+Use mobile for best experience!
+
 ### Usage
 
 - A loading screen appears while fetching data from the OpenWeatherMap API
