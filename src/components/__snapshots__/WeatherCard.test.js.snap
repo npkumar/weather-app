@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherCard renders 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root makeStyles-root-1 MuiPaper-elevation3 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardContent-root"
+    >
+      <p
+        class="MuiTypography-root makeStyles-title-2 MuiTypography-body1 MuiTypography-gutterBottom"
+        data-testid="date"
+      >
+        Jul 23, 2020
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-dayOfWeek-6 MuiTypography-body1 MuiTypography-gutterBottom"
+        data-testid="day"
+      >
+        Thursday
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-description-4 MuiTypography-body1 MuiTypography-colorSecondary"
+        data-testid="unit"
+      >
+        200 Fahrenheit
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

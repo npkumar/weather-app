@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Otherdays renders 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+    >
+      <div
+        class="MuiPaper-root makeStyles-root-1 MuiPaper-elevation3 MuiPaper-rounded"
+        data-testid="yesterday"
+      >
+        <div
+          class="MuiCardContent-root"
+        >
+          <p
+            class="MuiTypography-root makeStyles-smallTitle-3 MuiTypography-body1 MuiTypography-gutterBottom"
+            data-testid="date"
+          >
+            Jul 18, 2020
+          </p>
+          <p
+            class="MuiTypography-root makeStyles-smallDayOfWeek-7 MuiTypography-body1 MuiTypography-gutterBottom"
+            data-testid="day"
+          >
+            Saturday
+          </p>
+          <p
+            class="MuiTypography-root makeStyles-smallDescription-5 MuiTypography-body1 MuiTypography-colorSecondary"
+            data-testid="unit"
+          >
+             
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+    >
+      <div
+        class="MuiPaper-root makeStyles-root-1 MuiPaper-elevation3 MuiPaper-rounded"
+        data-testid="tomorrow"
+      >
+        <div
+          class="MuiCardContent-root"
+        >
+          <p
+            class="MuiTypography-root makeStyles-smallTitle-3 MuiTypography-body1 MuiTypography-gutterBottom"
+            data-testid="date"
+          >
+            Jul 20, 2020
+          </p>
+          <p
+            class="MuiTypography-root makeStyles-smallDayOfWeek-7 MuiTypography-body1 MuiTypography-gutterBottom"
+            data-testid="day"
+          >
+            Monday
+          </p>
+          <p
+            class="MuiTypography-root makeStyles-smallDescription-5 MuiTypography-body1 MuiTypography-colorSecondary"
+            data-testid="unit"
+          >
+             
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
